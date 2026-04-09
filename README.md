@@ -1,1 +1,2 @@
 # Digital-Forensics-Projects
+Projects have always been something I am bad at. Most of it comes down to the fact that 1) I don't ever really know where to start, and 2) my interests are pretty limited. Also, I pretty much only two desired career paths: either a SOC analyst or a Digital Forensic/Cybercrime Investigator. The latter is my passion, and so this repository is meant to help me get experience with with forensics tools and processes so that I don't look like a bozo during interviews.
